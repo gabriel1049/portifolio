@@ -197,3 +197,20 @@ themeButton.addEventListener("click", () => {
   localStorage.setItem("selected-theme", getCurrentTheme());
   localStorage.setItem("selected-icon", getCurrentIcon());
 });
+
+// efeito de digitação
+function typeWrite(elemento) {
+  const textoArray = elemento.innerHTML.split('');
+
+  elemento.innerHTML = '';
+  textoArray.forEach((letra,i) => {
+      setTimeout(function(){
+          elemento.innerHTML += letra;
+      }, 75 * i) 
+  });
+}
+
+
+
+const titulo = document.querySelector('.home__title');
+  typeWrite(titulo);
