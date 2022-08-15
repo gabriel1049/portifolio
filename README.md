@@ -6,7 +6,7 @@ Uma pagina web contendo todas as informações minhas individuais, totalmente re
 
 
 ## Author🙋‍♂️
-- [@Kauê](https://github.com/KaueLoviz)
+- [@Gabriel](https://github.com/gabriel1049)
 
  
 ## Tech Stack📝
@@ -14,4 +14,4 @@ Uma pagina web contendo todas as informações minhas individuais, totalmente re
 
 
 ## Link🙅‍♂️
-- [Portfolio]( https://kaueloviz.github.io/Portfolio-Pessoal/) 
+- [Portfolio]( https://github.com/gabriel1049/portifolio/) 
